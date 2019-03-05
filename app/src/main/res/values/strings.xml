@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaselab</string>
+    <string name="dateStr">Date</string>
+    <string name="doneStr">Done</string>
+    <string name="whoStr">Who</string>
+    <string name="AddToDBStr">Add to DB</string>
+    <string name="taskStr">Task</string>
+</resources>

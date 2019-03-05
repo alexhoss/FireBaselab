@@ -41,7 +41,7 @@
         android:text="@string/AddToDBStr" />
 
     <ListView
-        android:id="@+id/lvStudents"
+        android:id="@+id/lvTodos"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

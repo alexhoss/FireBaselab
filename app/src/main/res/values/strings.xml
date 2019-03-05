@@ -5,4 +5,6 @@
     <string name="whoStr">Who</string>
     <string name="AddToDBStr">Add to DB</string>
     <string name="taskStr">Task</string>
+    <string name="deleteStr">Delete Entry</string>
+    <string name="updateStr">Update Todo</string>
 </resources>

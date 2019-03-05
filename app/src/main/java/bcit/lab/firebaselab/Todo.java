@@ -8,9 +8,12 @@ public class Todo {
     String task;
     String who;
     Date date;
+    String id;
     boolean done;
 
-    public Todo(){}
+    public Todo(){
+        done = false;
+    }
 
     public Todo(String field, String whomst, Date date){
         task = field;
@@ -18,6 +21,11 @@ public class Todo {
         this.date = date;
         done = false;
     }
+
+    public void setID(String id){
+    this.id = id;}
+
+    public String getID(){return id;}
 
 
 
